@@ -1,1 +1,0 @@
-# Yoga-Position-Classifier
